@@ -7,7 +7,7 @@ gTTS==1.2.2
 gTTS-token==1.1.1
 idna==2.6
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 pyserial==3.4
 requests==2.18.4
